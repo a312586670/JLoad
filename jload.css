@@ -1,0 +1,7 @@
+﻿.jackson-jload span
+{
+    background:url(./img/icon-load.gif) 5px 1px no-repeat;
+    padding:2px;
+    padding-left:25px;
+    font-size:12px;
+}
